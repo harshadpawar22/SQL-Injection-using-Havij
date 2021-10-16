@@ -1,2 +1,2 @@
 # SQL-Injection-using-Havij
-This document contains steps tp perform SQL injection using Havij tool.
+This document contains steps to perform SQL injection using Havij tool.
